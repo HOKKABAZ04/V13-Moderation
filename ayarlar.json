@@ -1,0 +1,113 @@
+{
+  
+  "SERVER": {
+    "mongoUrl": "",
+  "Owners": ["346258085930729472", "716327849979805736"],
+  "sunucu": "",
+  "guildID": "",
+
+    "sınırsızInviteLink": "",
+  "yasaklıTags": [""],
+  "yasaklıEtiket": [""],
+
+  "banlimit": 3,
+  "bankaldırma": 3,
+  "jaillimit": 3,
+  "chatmutelimit": 3,
+  "voicemutelimit": 3,
+  "rolver": 3,
+  "rolal": 3,
+  "temizlemeLimit": "3",
+  "kilitAcLimit": "2",
+  "kilitKapatLimit": "2",
+  "slowModeLimit": "2",
+  "emojiOlusturmaLimit": "2"
+},
+
+  "BOT": {
+
+    "prefix": ".",
+    "sahip": "346258085930729472",
+    "token": "",
+    "footer": "RunHeaven & HOKKABAZ tarafından geliştirildi.",
+	"botVoiceChannelID": "",
+	"durum": "HOKKABAZ ❤️ RunHeaven"
+
+  },
+
+  "ROLVERSISTEMI": {
+
+    "kayitci": "rol id",
+    "Streamer": "rol id",
+    "Falcı": "rol id",
+    "Musician": "rol id",
+    "Crew": "rol id",
+    "Family": "rol id",
+    "Sponsor": "rol id",
+    "Mute": "rol id",
+    "Jail" : "rol id",
+    "Ban": "rol id",
+    "Staff": "rol id",
+    "Mod": "rol id",
+    "Admin": "rol id",
+    "ytalım": "rol id",
+    "dgko": "rol id",
+    "owner": "rol id"
+
+},
+
+
+
+  "ROLLER": {
+
+	"staffRoles": ["rol id'leri"],
+    "ÜststaffRoles": ["rol id'leri"],
+    "bancıRol": "rol ismi",
+    "kickciRol": "rol ismi",
+
+    "jailYetkili": "rol ismi",
+    "muteYetkili": "rol ismi",
+
+    "muterol": "rol ismi",
+    "jailRolu": "rol ismi",
+	
+    "boosterRol": "rol ismi",
+
+    "teyitsizRolleri": "rol id",
+	  "RolSistemiKontrol": ["rol id'leri"],
+
+	"yasaklıTagRol": "rol ismi"
+  },
+
+	"KANALLAR": {
+
+    "yetkiliKanal": "kanal ismi",
+    "botkomutları": "kanal ismi",
+    "teyitKanali": "kanal ismi",
+	"jailSohbet": "kanal ismi"
+
+  },
+
+  "LOGS": {
+    "genelLog": "genel-log",
+    "uyarıLog": "warn-log",
+    "banLog": "ban-log",
+    "kickLog": "kick-log",
+	"yasaklıTag": "yasaklı-tag-log",
+    "jailLog": "jail-log",
+    "muteLog": "mute-log",
+    "sesLog": "ses-log",
+    "moveLog": "move-log",
+    "mesajLog": "mesaj-log",
+    "cezapuanlog": "ceza-puan-log",
+	"rolLog": "rol-log"
+   
+  },
+  
+  "EMOJİ": {
+	"onay": "<a:onay:1020803810538553436>",
+	"hata": "<a:hata:1020803808814714921>"
+}
+
+
+}
